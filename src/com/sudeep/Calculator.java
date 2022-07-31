@@ -10,6 +10,7 @@ public class Calculator {
 	public int mul(int a, int b) {
 		return a*b;
 	}
+	this sudeep change
 	public int div(int a, int b) {
 		return a/b;
 	}
